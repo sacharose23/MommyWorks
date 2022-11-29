@@ -2,6 +2,14 @@
 
 Resource: https://www.fantasticfunandlearning.com/christmas-tree-sun-catcher-holiday-craft.html
 
+Date: 
+
+### Feedback and Notes:
+
+
+
+------
+
 ### Topics: 
 
 * Christmas, traditions, suncatchers
@@ -51,4 +59,3 @@ Resource: https://www.fantasticfunandlearning.com/christmas-tree-sun-catcher-hol
 4. What was their favorite part?
 5. What was challenging?
 6. What are Xmas trees? Why do we decorate them for Xmas?
-
