@@ -53,9 +53,15 @@ The kids enjoyed it. They sort of knew what to do already since they've built su
 
 ### Assessment:
 
-1. Did they keep their focus on the project? Did they complete the project?
+1. Did they keep their focus on the project? Did they complete the project? 
+   - Yes.
 2. Did they have fun?
+   * They seemed to be; they really concentrated on what they were doing. They did what they wanted and felt.
 3. Did they use their imagination/creativity?
+   * Kai wanted to make a snail with the gems.
 4. What was their favorite part?
+   * They enjoyed the gems the most.
 5. What was challenging?
+   * Rose seemed to have a challenge getting the jewels right side up.
 6. What are Xmas trees? Why do we decorate them for Xmas?
+   * NA
