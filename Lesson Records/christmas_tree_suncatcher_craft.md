@@ -2,11 +2,11 @@
 
 Resource: https://www.fantasticfunandlearning.com/christmas-tree-sun-catcher-holiday-craft.html
 
-Date: 
+Date: 12-10-2022
 
-### Feedback and Notes:
+### Feedback and Notes: 
 
-
+The kids enjoyed it. They sort of knew what to do already since they've built suncatchers before. They did this with Miss Holly while Jon and I were at our Xmas Party. I don't believe Miss Holly discussed the importance of the Xmas tree, which is fine because I failed to mention it. We'll do xmas tree playdoughs soon and be sure to discuss the Learning Objectives. Both kids were also dealing with sicknesses at the time. So, this activity was primarily meant to keep them busy and calm.
 
 ------
 
