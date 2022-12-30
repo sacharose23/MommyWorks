@@ -5,16 +5,19 @@
 * Workout (30min walk, XX min of airsquats etc)
 * keep your GitHub GREEN
 * Spanish
-* Read
+* Read 
+  * January
+    * E-Myth
+    * Managing the Professional Servies Firm
+  * February
+  * March
 
 ### Monthly
 
-* financial planning
+* Financial planning
 * Plan dates
 * plan family experiences
 * pick book to read
-
-
 
 ## Family
 
@@ -41,8 +44,7 @@
 ### Be healthy. 
 
 * Physically
-  * Hit and maintain average of 130 pounds by June 2023.
-    * How
+  * Hit and maintain average of 130 pounds by June 2023. 
   * Enroll in ju jitsu? Or just do 20 minute cross-training workouts everyday?
   * Yoga class at least 1x per week.
 * Mentally.
@@ -64,13 +66,10 @@
 
 * Business
   * At least 2 pull requests per week.
-  * 
 * Baking
   * Add at least 1 recipe per week to repo.
-  * 
 * Crocheting
 * House
   * Do 12 house projects/contributions (1 per month).
     * E.g., update the current bathroom with fresh paint, wall art, and better grouting.
-    * E.g., 
 
