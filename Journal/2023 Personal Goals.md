@@ -1,4 +1,4 @@
-# 2023 Goals
+# 2023 Personal Goals
 
 ### Daily
 
